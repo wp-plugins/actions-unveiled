@@ -61,14 +61,15 @@ You're a developper, you know the different ways to install a plugin hosted here
 
 **A.** Simply add the following php code block with your message:
 
-`if (defined('BE_MCH_ACTUNV')) {
+`<?php
+	if (defined('BE_MCH_ACTUNV')) {
 		new BE_MCH_ACTUNV_messenger('<your message>');
 	}
-`
+?>`
 
 Note: don't forget the backslash if you're inside a namespace.
 
-`new \BE_MCH_ACTUNV_messenger('<your message>');`
+`<?php new \BE_MCH_ACTUNV_messenger('<your message>'); ?>`
 	
 == Changelog ==
 
