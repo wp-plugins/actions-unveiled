@@ -32,11 +32,8 @@ This plugin is suited for **developpers**.
 == Installation ==
 
 1. Search the plugin through the 'Plugins - Add new' menu in WordPress and click on 'Install now'
-**or**
-Donwload then upload the zip file through the 'Plugins - Add new' menu then 'Upload Plugin' in Wordpress and click on 'Install now'
-**or** 
-Donwload then extract the zip file and drop its contents in the wp-content/plugins/ directory of your WordPress installation
-**or**
+1. **or** Donwload then upload the zip file through the 'Plugins - Add new' menu then 'Upload Plugin' in Wordpress and click on 'Install now'
+1. **or** Donwload then extract the zip file and drop its contents in the wp-content/plugins/ directory of your WordPress installation
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 
