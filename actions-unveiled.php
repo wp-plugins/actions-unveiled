@@ -5,7 +5,7 @@
  * Version: 1.0.0
  * Date: 19/03/2015
  * Author: Jacquemin Serge
- * Author URI: http://www.mch.be
+ * Author URI: https://profiles.wordpress.org/sergejack
 */
 // important: no namespace for ths file! PHP 5.0+ Compatible!
 define('BE_MCH_ACTUNV', true);
